@@ -1,6 +1,6 @@
 # Chem 456 course resource page
 
-The course resource page is at [https://daveminh.github.io/Chem456-2022F/](https://daveminh.github.io/Chem456-2022F/).
+The course resource page is at [https://daveminh.github.io/Chem456-2024F/](https://daveminh.github.io/Chem456-2024F/).
 
 Here is the Github code for the resource page. It is based on [a jekyll course template](https://github.com/kazemnejad/jekyll-course-website-template).
 
