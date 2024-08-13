@@ -19,10 +19,8 @@ The research project includes the following steps:
     * or electrostatics calculations.
 
 Some targets that you may find interesting are:
-* µ-opioid receptor (which Bing is studying)
-* BaxΔ2 (which Ricky is studying)
-* Cytochrome P450s from Western Corn Rootworm (which Nick is studying)
-* Tyrosyl-DNA phosphodiesterase 1 (TDP1), a possible cancer drug target
+* The sigma 2 receptor
+* The D2 dopamine receptor
 
 ## Presentation
 
@@ -50,12 +48,6 @@ Before 11:25am on the due date, your report should be saved in a folder within y
 
 A satisfactory report will meet the same criterion as the presentation except for the last. Instead, the report should be clearly written with proper English spelling and grammar.
 
-# Pharmaceutical Ethics Report
-
-To earn a C or higher, you must write a satisfactory summary of the discussion related to pharmaceutical ethics. As described the syllabus, the length of the summary will depend on the grade that you are trying to earn. To be satisfactory, the summary must cover key points from the discussion and be clearly written with proper English spelling and grammar.
-
-The report should be saved as a document in Apple Pages (.pages), Microsoft Word (.doc/.docx), Google Document (.gdoc), or Portable Document Format (.pdf) format. Before 11:25am on the due date, your report should be saved in your class folder as `PharmaceuticalEthicsReport.XXX`, where `XXX` is the file extension.
-
 # Final Project
 
 To pass this class, you must work in teams of 3 or 4 members to complete a research project that uses some of the molecular modeling methods that we have learned about in this class to study a biological target selected by one of the members. Your team must also give a final presentation, present your findings at Innovation Day, and write a final report. Finally, to earn a C or higher, you must write a report that describes your individual contributions to the project.
@@ -65,6 +57,10 @@ To pass this class, you must work in teams of 3 or 4 members to complete a resea
 Your team should propose, design, and perform a rational series of calculations involving the selected biological target. To pass the class, your team must perform at least one molecular docking and one molecular dynamics simulation and appropriate analyses. To earn a B or higher, your project should have a *clear contribution to science* - to explain an experimental observation, to make predictions about a biological macromolecule, or both.
 
 You will almost certainly need to perform additional calculations to achieve this goal. These may be based on the same methods you used for the Biological Target Project, e.g. structural alignment, homology models, or electrostatics. As another example, you may want to perform a virtual screen of a library of compounds against the target. As yet another example, you may perform a binding free energy calculation to obtain a more accurate prediction of the binding pose or affinity. In any case, I strongly encourage you to talk to me about the feasibility of your planned calculations.
+
+## ACCESS-CI allocation request
+
+To earn a B or higher, your team must submit an ACCESS-CI allocation request for compute time. The allocation request is only about one page. It will require you to describe the project and its rationale and also to estimate the compute time that will be required. You may use the class allocation to benchmark your calculations, if your team decides not to submit an allocation request, or if you are waiting for a response on the allocation. For the smallest allocations, you may receive a response within a day.
 
 ## Presentation
 

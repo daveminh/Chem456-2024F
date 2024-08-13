@@ -4,6 +4,8 @@ title: Schedule
 permalink: /schedule/
 ---
 
+There will be 26 class sessions over 15 weeks. There will be no class during the first week. On 8/28, we will have two class sessions, one during lunch. It will be recorded for those unable to attend.  A tentative schedule is below.
+
 Lecture slides and exercise notebooks should be available below after the class period. If they are not, please let me know.
 
 | ---- | | |
@@ -19,3 +21,5 @@ Lecture slides and exercise notebooks should be available below after the class 
 {%- if module.due %} <u>Due:</u> {{ module.due }}. {% endif %}
 {%- if module.quiz %} <u>Quiz:</u> {{ module.quiz }}. {% endif %} |
 {% endfor %}
+
+During the final exam period (TBD), students will give a final presentation. Exercise 12 is due on December 2 at noon. The final report and individual contribution report is due on December 9 at noon.

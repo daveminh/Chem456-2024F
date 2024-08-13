@@ -1,195 +1,183 @@
 - day: M
-  date: 8/22
-  title: "Introduction and syllabus"
-  basename: 08-22-introduction
-  exercise: "1: Introduction to Google Colab"
-  notebook: 01-google_colab
+  date: 8/19
+  title: "No class - Dr. Minh conference travel"
 
 - day: W
-  date: 8/24
-  title: "Fundamentals of biological macromolecules"
-  basename: 08-24-biological_macromolecules
-  exercise: "2: Structural visualization and alignment"
-  notebook: 02-structural_visualization
+  date: 8/21
+  title: "No class - Dr. Minh conference travel"
 
 - day: M
-  date: 8/29
+  date: 8/26
+  title: "Introduction and syllabus"
+  exercise: "1: Introduction to Google Colab"
+  notebook: 01-Google_Colab
+  basename: "08-26-Introduction"
+
+- day: W
+  date: 8/28
+  title: "Fundamentals of biological macromolecules"
+  exercise: "2: Structural visualization with py3DMol"
+  notebook: "02-Structural_Visualization"
+  basename: "08-28-Biological_Macromolecules"
+
+- day: W
+  date: 8/28 lunch
   title: "Structure determination"
   description: "by X-ray crystallography, NMR, and CryoEM"
-  basename: 08-29-structure_determination
-  due: "Exercise 1"
-
-- day: W
-  date: 8/31
-  title: "Structure prediction"
-  basename: 08-31-structure_prediction
-  exercise: "3: Modeling Cytochrome P450 structure with ColabFold"
-  notebook: 03-colab_fold
-  due: "Exercise 2"
+  basename: "08-28-Structure_Determination"
 
 - day: M
-  date: 9/5
-  title: "<i>No class - Labor Day</i>"
+  date: 9/2
+  title: "No class - Labor Day"
 
 - day: W
-  date: 9/7
+  date: 9/4
+  title: "Structure prediction principles"
+  exercise: "3: Homology modeling"
+  notebook: 03-Homology_Modeling
+  basename: "09-04-Structure_Prediction"
+  due: "Exercise 1. Exercise 2"
+
+- day: M
+  date: 9/9
+  title: "Examples of molecular modeling projects"
+  basename_todo: "09-09"
+
+- day: W
+  date: 9/11
   title: "Selecting a target"
   description: "for structure-based molecular design. Scientific and market considerations"
-  basename: 09-07-target_selection
+  basename: "09-11-Target_Selection"
+  due: "Exercise 3"
 
 - day: M
-  date: 9/12
-  title: "Surveying the scientific literature."
+  date: 9/16
+  title: "Scientific Literature"
   description: "Academic literature databases. Reference management with Zotero"
-  basename: 09-12-scientific_literature
-  due: "Exercise 3"
-  quiz: "Biomolecular structure"
+  basename: "09-16-Scientific_Literature"
+  due: "Quiz: Biomolecular structure"
 
 - day: W
-  date: 9/14
-  title: "Pharmaceutical ethics."
-  basename: 09-14-ethics
-  description: "Access to medicines versus incentivizing research and development. Informed consent in clinical trials"
-
-- day: M
-  date: 9/19
+  date: 9/18
   title: "Electrostatics and solvation"
   description: "of biological macromolecules"
-  basename: 09-19-electrostatics
+  basename: "09-18-Electrostatics"
 
-- day: W
-  date: 9/21
+- day: M
+  date: 9/23
   exercise: "4: Visualizing protonation and electrostatics"
-  notebook: 04-electrostatics
-  due: "Ethics discussion report"
-
-- day: M
-  date: 9/26
-  title: Biological target presentations.
-  due: Biological target presentation
+  notebook: 04-Electrostatics
 
 - day: W
-  date: 9/28
-  title: Biological target presentations.
-  due: Exercise 4
+  date: 9/25
+  title: "Biological target presentations"
+  due: "Biological target presentations"
 
 - day: M
-  date: 10/3
-  title: <i>No class - professor at conference</i>
+  date: 9/30
+  title: "Biological target presentations. Decide project teams"
+  due: "Exercise 4"
 
 - day: W
-  date: 10/5
+  date: 10/2
   title: "Molecular docking."
   description: "Scoring functions. Common optimization algorithms"
-  basename: 10-05-molecular_docking
-  exercise: "5: Molecular docking with AutoDock Vina, <i>during lunch</i>"
-  notebook: 05-docking
+  basename: "10-02-Molecular_Docking"
+
+- day: M
+  date: 10/7
+  title: "No class - Fall Break Day"
+
+- day: W
+  date: 10/9
+  exercise: "5: Molecular docking with AutoDock Vina"
+  notebook: 05-Molecular_Docking
   due: "Biological target report"
 
 - day: M
-  date: 10/10
-  title: <i>No class - Fall break day</i>
+  date: 10/14
+  title: "Molecular mechanics force fields."
+  description: "Bonded and nonbonded energy terms. Parameterization"
+  basename: "10-14-Molecular_Mechanics"
 
 - day: W
-  date: 10/12
-  title: Molecular mechanics force fields.
-  description: "Bonded and nonbonded energy terms. Parameterization"
-  basename: 10-12-molecular_mechanics
+  date: 10/16
+  exercise: "6: Preparing a system for molecular simulation"
+  notebook: 06-System_Preparation
   due: "Exercise 5"
 
 - day: M
-  date: 10/17
-  exercise: "6: Preparing a system for molecular simulation"
-  notebook: 06-system_preparation
+  date: 10/21
+  title: "Quantum mechanics/molecular mechanics (QM/MM)"
+  basename: "10-21-QMMM"
 
 - day: W
-  date: 10/19
-  title: Quantum mechanics/molecular mechanics (QM/MM)
-  basename: 10-19-qmmm
-
-- day: M
-  date: 10/24
-  exercise: "7: QM/MM analysis of MPro catalysis"
-  notebook: 07-qmmm
+  date: 10/23
+  exercise: "7: QM/MM analysis of SARS-CoV-2 MPro catalysis"
+  notebook: 07-QMMM
   due: "Exercise 6"
 
-- day: W
-  date: 10/26
-  title: Monte Carlo.
-  description: "Monte Carlo Integration. Markov chain Monte Carlo"
-  basename: 10-26-monte_carlo
-  quiz: "Potential energy"
-
 - day: M
-  date: 10/31
-  title: Molecular simulation.
-  description: "Metropolis Monte Carlo. Molecular dynamics. Constrained dynamics. Integrators, thermostats, and barostats"
-  basename: 10-31-molecular_simulation
+  date: 10/28
+  title: "Monte Carlo."
+  description: "Monte Carlo Integration. Markov chain Monte Carlo"
+  basename: "10-28-Monte_Carlo"
+  due: "Quiz: Potential energy"
+
+- day: W
+  date: 10/30
+  title: "Molecular simulation."
+  description: "Metropolis Monte Carlo. Molecular dynamics. Constrained dynamics. Integrators, thermostats, and barostats. "
   exercise: "8: Performing a molecular simulation with OpenMM"
-  notebook: 08-openmm
+  notebook: 08-OpenMM
+  basename: "10-30-Molecular_Simulation"
   due: "Exercise 7"
 
+- day: M
+  date: 11/4
+  title: "Simulation Analysis."
+  description: "Equilibration. Alignment and visualization of trajectories. Root mean square properties. Estimating expectation values. Dimensionality reduction. Clustering"
+  exercise: "9: Analysis of molecular simulations"
+  notebook: 09-MDAnalysis
+
 - day: W
-  date: 11/2
-  title: Analysis of molecular simulation.
-  exercise: "9: Analysis of molecular dynamics"
-  notebook: 09-mdanalysis
-  description: "Equilibration. Alignment and visualization of trajectories. Root mean square properties. Estimating expectation values. Dimensionality reduction."
+  date: 11/6
+  title: "Simulating and analyzing thermodynamic processes. Replica exchange"
+  basename: "11-06-Thermodynamic_Processes"
+  due: "Exercise 8. ACCESS-CI allocation request"
 
 - day: M
-  date: 11/7
-  title: Simulating and analyzing thermodynamic processes.
-  description: "Thermodynamic processes. Umbrella sampling. Replica exchange. Statistical estimation of expectations and free energies"
-  basename: 11-07-thermodynamic_processes
-  due: "Exercise 8"
-
-- day: W
-  date: 11/9
-  title: "Binding free energy calculations."
+  date: 11/11
+  title: "Free energy calculations. Alchemical methods. Thermodynamic cycles"
   exercise: "10: Umbrella sampling"
-  notebook: 10-umbrella
-  description: "Alchemical methods. Thermodynamic cycles."
-  basename: 11-09-binding_free_energy_calculations
+  notebook: 10-Umbrella
+  basename: "11-11-Free_Energy_Calculations"
   due: "Exercise 9"
 
+- day: W
+  date: 11/13
+  title: "Analysis of free energy calculations. Simulation quality metrics"
+  exercise: "11: Replica exchange"
+  notebook_todo: "11-ReplicaExchange"
+
 - day: M
-  date: 11/14
-  title: "Analysis of binding free energy calculations."
-  exercise: "11: YANK"
-  notebook: 11-yank
-  description: "Simulation quality metrics. Pose prediction."
+  date: 11/18
+  title: "Computational Molecular Pharmacology. Signaling through 7 transmembrane receptors"
+  basename_todo: "11-18-Computational Molecular Pharmacology"
 
 - day: W
-  date: 11/16
-  title: "Quantitative structure-property relationships."
-  description: "Structural features. Common properties. Machine learning methods."
-  basename: 11-16-qspr
-  quiz: "Molecular simulations"
-  due: "Exercise 10"
+  date: 11/20
+  title: "Quantitative structure-property relationships. Structural features. Common properties. Machine learning methods"
+  basename: "12-QSPR"
+  due: "Exercise 10. Quiz: Molecular simulations"
 
 - day: M
-  date: 11/21
-  exercise: "12: Machine learning"
-  notebook: 12-qspr
+  date: 11/25
+  exercise: "12: Machine learning prediction of solvation energies"
+  notebook: 11-25-QSPR
+  basename: "11-25-Solubility"
   due: "Exercise 11"
 
 - day: W
-  date: 11/23
-  title: "<i>No class - Thanksgiving break</i>"
-
-- day: M
-  date: 11/28
-  title: "Final presentations"
-  due: "Exercise 12. Final presentation"
-
-- day: W
-  date: 11/30
-  title: "Final presentations"
-
-- day: F
-  date: 12/2
-  title: "Innovation Day"
-
-- day: F
-  date: 12/9
-  due: "Final reports"
+  date: 11/27
+  title: "No class - Thanksgiving Break"
