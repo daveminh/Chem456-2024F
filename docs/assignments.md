@@ -20,6 +20,7 @@ The research project includes the following steps:
 
 Some targets that you may find interesting are:
 * The sigma 2 receptor
+* CXCR4 (in different oligomeric forms, as described by Vadim)
 * The D2 dopamine receptor
 
 ## Presentation
