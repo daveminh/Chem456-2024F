@@ -51,7 +51,7 @@ A satisfactory report will meet the same criterion as the presentation except fo
 
 # Final Project
 
-To pass this class, you must work in teams of 3 or 4 members to complete a research project that uses some of the molecular modeling methods that we have learned about in this class to study a biological target selected by one of the members. Your team must also give a final presentation, present your findings at Innovation Day, and write a final report. Finally, to earn a C or higher, you must write a report that describes your individual contributions to the project.
+To pass this class, you must work in teams of 3 or 4 members to complete a research project that uses some of the molecular modeling methods that we have learned about in this class to study a biological target selected by one of the members. Your team must also give a final presentation and write a final report. Finally, to earn a C or higher, you must write a report that describes your individual contributions to the project.
 
 ## Research
 
@@ -87,10 +87,6 @@ A presentation that enables the team to pass the class will
 
 A presentation that enables the team to earn an A or B will describe a clear contribution to science. To enable the team to earn an A, the presentation must have the polish of a conference presentation. Conference presentations are well-organized and smoothly delivered. Moreover, presenters are knowledgable about the background and are able to answer most questions intelligently.
 
-## Innovation Day
-
-For specifications of Innovation Day poster presentations, see the lecture slides from 11/16.
-
 ## Report
 
 The final report should capture the team's project work in the format of a scientific journal. Fortunately, the sections of the presentation reflect this format; as with the Biological Target presentation and report, the report is a written version of the presentation. You should address the same questions and present evidence in the text and in figures and tables. Unless approved for another journal, the document should be prepared for submission to the Journal of Chemical Information and Modelling according to [the journal's author guidelines](https://pubs.acs.org/page/jcisd8/submission/authors.html). It should be saved as a document suitable for submission to the journal. If there is a clear scientific contribution, the team may be encouraged to actually submit the paper for publication.
@@ -107,7 +103,7 @@ To earn a C or higher, you must write a report (1 page or longer) that includes 
 * an *individual contribution summary* and
 * a *project portfolio*.
 
-In the individual contribution summary, you should summarize how you contributed to the final project. For some examples of ways that you may have contributed to the project, see the [PLOS guidelines for author contributions](https://journals.plos.org/plosone/s/authorship). The PLOS guidelines were developed for a journal article. Additional ways that you can contribute are preparing the presentation slides or poster or presenting these materials before the class or during Innovation Day.
+In the individual contribution summary, you should summarize how you contributed to the final project. For some examples of ways that you may have contributed to the project, see the [PLOS guidelines for author contributions](https://journals.plos.org/plosone/s/authorship). The PLOS guidelines were developed for a journal article. Additional ways that you can contribute are preparing the presentation slides or poster before the class.
 
 For the project portfolio, you should describe the skills that you have developed over the course of the project. These skills could be technical skills related to the calculations. They could also be "soft" skills related to teamwork, project management, interpersonal relationships, communication, presentation, and writing. Preparing this project portfolio could help you answer job interview questions in the future.
 
