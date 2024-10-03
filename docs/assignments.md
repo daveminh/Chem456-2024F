@@ -51,7 +51,7 @@ A satisfactory report will meet the same criterion as the presentation except fo
 
 # Final Project
 
-To pass this class, you must work in teams of 2 to 4 members to complete a research project that uses some of the molecular modeling methods that we have learned about in this class to study a biological target selected by one of the members. Your team must also give a final presentation and write a final report. Finally, to earn a C or higher, you must write a report that describes your individual contributions to the project.
+To pass this class, you must work in teams of up to 4 members to complete a research project that uses some of the molecular modeling methods that we have learned about in this class to study a biological target selected by one of the members. Your team must also give a final presentation and write a final report. Finally, to earn a C or higher, you must write a report that describes your individual contributions to the project.
 
 ## Research
 
