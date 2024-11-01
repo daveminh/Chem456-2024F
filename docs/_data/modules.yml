@@ -127,7 +127,7 @@
 - day: W
   date: 10/30
   title: "Molecular simulation."
-  description: "Metropolis Monte Carlo. Molecular dynamics. Constrained dynamics. Integrators, thermostats, and barostats. "
+  description: "Metropolis Monte Carlo. Molecular dynamics. Constrained dynamics. Integrators, thermostats, and barostats. Equilibration."
   exercise: "8: Performing a molecular simulation with OpenMM"
   notebook: 08-OpenMM
   basename: "10-30-Molecular_Simulation"
@@ -135,48 +135,57 @@
 
 - day: M
   date: 11/4
-  title: "Simulation Analysis."
-  description: "Equilibration. Alignment and visualization of trajectories. Root mean square properties. Estimating expectation values. Dimensionality reduction. Clustering"
-  exercise: "9: Analysis of molecular simulations"
-  notebook: 09-MDAnalysis
+  title: "Remote computing with Bridges2"
+  description: "File transfer. Job submission."
+  basename: "11-04-Remote_Computing"
 
 - day: W
   date: 11/6
-  title: "Simulating and analyzing thermodynamic processes. Replica exchange"
-  basename: "11-06-Thermodynamic_Processes"
-  due: "Exercise 8. ACCESS-CI allocation request"
+  title: "Simulation Analysis."
+  description: "Alignment and visualization of trajectories. Root mean square properties. Estimating expectation values. Dimensionality reduction. Clustering"
+  exercise: "9: Analysis of molecular simulations"
+  notebook: 09-MDAnalysis
+  due: "Exercise 8"
 
 - day: M
   date: 11/11
-  title: "Free energy calculations. Alchemical methods. Thermodynamic cycles"
+  title: "Enhanced sampling."
+  description: "Importance sampling. Thermodynamic processes. Umbrella sampling. Multi-state Analysis."
+  basename: "11-11-Enhanced_Sampling"
   exercise: "10: Umbrella sampling"
   notebook: 10-Umbrella
-  basename: "11-11-Free_Energy_Calculations"
-  due: "Exercise 9"
 
 - day: W
   date: 11/13
-  title: "Analysis of free energy calculations. Simulation quality metrics"
-  exercise: "11: Replica exchange"
-  notebook_todo: "11-ReplicaExchange"
+  title: "Replica Exchange."
+  exercise: "11: Performing replica exchange with Fulton Market"
+  notebook: 11-Fulton_Market
+  basename: "11-13-Replica_Exchange"
+  due: "Exercise 9"
 
 - day: M
   date: 11/18
-  title: "Computational Molecular Pharmacology. Signaling through 7 transmembrane receptors"
-  basename_todo: "11-18-Computational Molecular Pharmacology"
+  title: "Free energy calculations."
+  description: "Alchemical methods. Thermodynamic cycles"
+  basename: "11-18-Free_Energy_Calculations"
+  due: "Exercise 10"
+
+# - day: M
+#  date: 11/18
+#  title: "Computational Molecular Pharmacology. Signaling through 7 transmembrane receptors"
+#  basename_todo: "11-18-Computational Molecular Pharmacology"
 
 - day: W
   date: 11/20
   title: "Quantitative structure-property relationships. Structural features. Common properties. Machine learning methods"
-  basename: "12-QSPR"
-  due: "Exercise 10. Quiz: Molecular simulations"
+  basename: "11-20-QSPR"
+  due: "Exercise 11. Quiz: Molecular simulations"
 
 - day: M
   date: 11/25
   exercise: "12: Machine learning prediction of solvation energies"
-  notebook: 11-25-QSPR
+  notebook: 12-QSPR
   basename: "11-25-Solubility"
-  due: "Exercise 11"
 
 - day: W
   date: 11/27
