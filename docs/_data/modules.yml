@@ -135,16 +135,17 @@
 
 - day: M
   date: 11/4
-  title: "Remote computing with Bridges2"
-  description: "File transfer. Job submission."
-  basename: "11-04-Remote_Computing"
+  title: "High Performance Computing with Bridges2."
+  description: "Logging in. File transfer. Job submission"
+  exercise: "9: Analysis of molecular simulations"
+  notebook: 09-High_Performance_Computing
 
 - day: W
   date: 11/6
   title: "Simulation Analysis."
-  description: "Alignment and visualization of trajectories. Root mean square properties. Estimating expectation values. Dimensionality reduction. Clustering"
-  exercise: "9: Analysis of molecular simulations"
-  notebook: 09-MDAnalysis
+  description: "Alignment and visualization of trajectories. Root mean square properties. Estimating expectation values. Dimensionality reduction. Clustering."
+  exercise: "10: Analysis of molecular simulations"
+  notebook: 10-MDAnalysis
   due: "Exercise 8"
 
 - day: M
@@ -152,23 +153,24 @@
   title: "Enhanced sampling."
   description: "Importance sampling. Thermodynamic processes. Umbrella sampling. Multi-state Analysis."
   basename: "11-11-Enhanced_Sampling"
-  exercise: "10: Umbrella sampling"
-  notebook: 10-Umbrella
+  exercise: "11: Umbrella sampling"
+  notebook: 11-Umbrella
+  due: "Exercise 9"
 
 - day: W
   date: 11/13
   title: "Replica Exchange."
-  exercise: "11: Performing replica exchange with Fulton Market"
-  notebook: 11-Fulton_Market
+  exercise: "12: Performing replica exchange with Fulton Market"
+  notebook: 12-Fulton_Market
   basename: "11-13-Replica_Exchange"
-  due: "Exercise 9"
+  due: "Exercise 10"
 
 - day: M
   date: 11/18
   title: "Free energy calculations."
   description: "Alchemical methods. Thermodynamic cycles"
   basename: "11-18-Free_Energy_Calculations"
-  due: "Exercise 10"
+  due: "Exercise 11"
 
 # - day: M
 #  date: 11/18
@@ -179,10 +181,11 @@
   date: 11/20
   title: "Quantitative structure-property relationships. Structural features. Common properties. Machine learning methods"
   basename: "11-20-QSPR"
-  due: "Exercise 11. Quiz: Molecular simulations"
+  due: "Exercise 12. Quiz: Molecular simulations"
 
 - day: M
   date: 11/25
+  title: "Solvation energies."
   exercise: "12: Machine learning prediction of solvation energies"
   notebook: 12-QSPR
   basename: "11-25-Solubility"
