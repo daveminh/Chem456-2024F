@@ -16,7 +16,6 @@ Instead of a traditional point-based system, we will use specifications grading.
 | Exercises | 5 | 6 | 7 | 8 |
 | Participation | 4 | 6 | 8 | 10 |
 | <i>Team</i>
-| ACCESS-CI allocation request | - | - | Complete | Complete |
 | Final presentation | Complete | Complete | Clear scientific contribution | Conference quality |
 | Final report | Complete | Complete | Journal quality with major revisions | Journal quality with minor revisions |
 

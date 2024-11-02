@@ -59,10 +59,6 @@ Your team should propose, design, and perform a rational series of calculations 
 
 You will almost certainly need to perform additional calculations to achieve this goal. These may be based on the same methods you used for the Biological Target Project, e.g. structural alignment, homology models, or electrostatics. As another example, you may want to perform a virtual screen of a library of compounds against the target. As yet another example, you may perform a binding free energy calculation to obtain a more accurate prediction of the binding pose or affinity. In any case, I strongly encourage you to talk to me about the feasibility of your planned calculations.
 
-## ACCESS-CI allocation request
-
-To earn a B or higher, your team must submit an ACCESS-CI allocation request for compute time. The allocation request is only about one page. It will require you to describe the project and its rationale and also to estimate the compute time that will be required. You may use the class allocation to benchmark your calculations, if your team decides not to submit an allocation request, or if you are waiting for a response on the allocation. For the smallest allocations, you may receive a response within a day.
-
 ## Presentation
 
 Your presentation should have the following sections that address specific questions:
