@@ -186,6 +186,7 @@
 - day: M
   date: 11/25
   title: "Solvation energies."
+  description: "Also, first final presentation."
   exercise: "12: Machine learning prediction of solvation energies"
   notebook: 12-QSPR
   basename: "11-25-Solubility"
