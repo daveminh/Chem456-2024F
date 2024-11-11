@@ -155,41 +155,35 @@
   basename: "11-11-Enhanced_Sampling"
   exercise: "11: Umbrella sampling"
   notebook: 11-Umbrella
-  due: "Exercise 9"
 
 - day: W
   date: 11/13
-  title: "Replica Exchange."
-  exercise: "12: Performing replica exchange with Fulton Market"
-  notebook: 12-Fulton_Market
-  basename: "11-13-Replica_Exchange"
-  due: "Exercise 10"
+  title: "Free energy calculations."
+  description: "Alchemical methods. Thermodynamic cycles"
+  basename: "11-13-Free_Energy_Calculations"
+  due: "Exercise 9"
 
 - day: M
   date: 11/18
-  title: "Free energy calculations."
-  description: "Alchemical methods. Thermodynamic cycles"
-  basename: "11-18-Free_Energy_Calculations"
-  due: "Exercise 11"
-
-# - day: M
-#  date: 11/18
-#  title: "Computational Molecular Pharmacology. Signaling through 7 transmembrane receptors"
-#  basename_todo: "11-18-Computational Molecular Pharmacology"
+  title: "Replica Exchange."
+  exercise: "12: Performing replica exchange with Fulton Market"
+  notebook: 12-Fulton_Market
+  basename: "11-18-Replica_Exchange"
+  due: "Exercise 10"
 
 - day: W
   date: 11/20
   title: "Quantitative structure-property relationships. Structural features. Common properties. Machine learning methods"
   basename: "11-20-QSPR"
-  due: "Exercise 12. Quiz: Molecular simulations"
+  due: "Exercise 11. Quiz: Molecular simulations"
 
 - day: M
   date: 11/25
   title: "Solvation energies."
-  description: "Also, first final presentation."
-  exercise: "12: Machine learning prediction of solvation energies"
-  notebook: 12-QSPR
+  exercise: "13: Machine learning prediction of solvation energies"
   basename: "11-25-Solubility"
+  due: "Exercise 12"
+  notebook: 13-QSPR
 
 - day: W
   date: 11/27
