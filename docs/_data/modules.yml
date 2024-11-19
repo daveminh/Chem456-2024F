@@ -182,7 +182,6 @@
   title: "Solvation energies."
   exercise: "13: Machine learning prediction of solvation energies"
   basename: "11-25-Solubility"
-  due: "Exercise 12"
   notebook: 13-QSPR
 
 - day: W

@@ -22,4 +22,4 @@ Lecture slides and exercise notebooks should be available below after the class 
 {%- if module.quiz %} <u>Quiz:</u> {{ module.quiz }}. {% endif %} |
 {% endfor %}
 
-During the final exam period (TBD), students will give a final presentation. Exercise 13 is due on December 2 at noon. The final report and individual contribution report is due on December 9 at noon.
+During the final exam period (December 2 from 2-4 pm), students will give a final presentation. Exercise 12 and 13 are due on December 5 at noon. The final report and individual contribution report is due on December 9 at noon.
